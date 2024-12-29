@@ -12,3 +12,11 @@ body{
     background: radial-gradient(orange,red);
     direction: rtl;
 }
+.resize{
+    width: 500px;
+    background: rgba(255,255,255,0.3);
+    backdrop-filter: blur(10px);
+    padding: 25px 30px;
+    border-radius: 5px;
+    text-align: center;
+}
