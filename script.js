@@ -1,0 +1,1 @@
+let textarea_resize=document.querySelector('textarea');
